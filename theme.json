@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#161616",
+        "Base": "#161616",
+        "BrightText": "#de6161",
+        "Button": "#161616",
+        "ButtonText": "#E9E8E8",
+        "Highlight": "#161616",
+        "HighlightedText": "#E9E8E8",
+        "Link": "#CD001F",
+        "Text": "#E9E8E8",
+        "ToolTipBase": "#de6161",
+        "ToolTipText": "#E9E8E8",
+        "Window": "#161616",
+        "WindowText": "#E9E8E8",
+        "fadeAmount": 0.5,
+        "fadeColor": "#161616"
+    },
+    "name": "devdark",
+    "widgets": "Fusion"
+}
